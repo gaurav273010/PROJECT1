@@ -1,6 +1,6 @@
         print("WELCOME..")
 while True:
-        print("Select ab option")
+        print("Select an option")
         print("1. pattern")
         print("2. analyze number")
         print("3. exit")
