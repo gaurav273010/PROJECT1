@@ -1,4 +1,4 @@
-print("WELCOME..")
+print("WELCOME TO THE PATTERN GENERATOR AND NUMBER ANALYZER..")
 
 while True:
         print("Select an option")
