@@ -1,4 +1,5 @@
-        print("WELCOME..")
+print("WELCOME..")
+
 while True:
         print("Select an option")
         print("1. pattern")
